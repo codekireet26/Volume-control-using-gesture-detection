@@ -1,2 +1,1 @@
-# Volume-control-using-gesture-detection
-project-3
+# Built a gesture volume control software which will allows to control the volume of your computer by just using two fingers. This software captures your webcam input, detects focal points on your hand like the fingertips and joints. To build this app I used opencv's python module which allows us to capture video from our web cam, frame-by-frame.Osacript on Mac is used to control the system volume and integrate the two things together so that volume could be controlled by two fingers.
